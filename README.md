@@ -1,5 +1,5 @@
 # Patch-Based-DICOM-Image-and-Metadata-Compression
----
+
 This algorithm is based on HiFiC(High-Fidelity Generative Image Compression). The original HiFiC software can be found in [link](https://github.com/tensorflow/compression/tree/master/models/hific)
 ---
 ## Usage of Patch-Based-DICOM-Image-and-Metadata-Compression
