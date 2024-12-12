@@ -3,7 +3,7 @@
 This algorithm is based on HiFiC(High-Fidelity Generative Image Compression). The original HiFiC software can be found in [link](https://github.com/tensorflow/compression/tree/master/models/hific)
 ---
 ## Download pretrained SAM model
-[link]{https://drive.google.com/file/d/1LTJWX7cEV5KCML20nrysUROqFWc6ZCDb/view?usp=sharing}
+[link](https://drive.google.com/file/d/1LTJWX7cEV5KCML20nrysUROqFWc6ZCDb/view?usp=sharing)
 
 ## Usage of Patch-Based-DICOM-Image-and-Metadata-Compression
 
